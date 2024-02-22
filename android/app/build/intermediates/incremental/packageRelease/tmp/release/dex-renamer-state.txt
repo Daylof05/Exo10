@@ -1,0 +1,4 @@
+#Fri Feb 09 15:20:10 CET 2024
+base.0=D\:\\Cours\\ReactNative\\Exo10\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
